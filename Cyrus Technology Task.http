@@ -1,0 +1,6 @@
+@Cyrus_Technology_Task_HostAddress = http://localhost:5062
+
+GET {{Cyrus_Technology_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
